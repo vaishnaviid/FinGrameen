@@ -1,6 +1,6 @@
-# BankingSystem
- This banking application helps us to automate the processes that are
- used in the banks. 
+# FinGrameen: Banking System
+ This banking application specially build to automate the processes that are
+ used in rural area banks. 
  The various operations are:
  1. Deposit
  2. Withdraw
